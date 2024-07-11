@@ -5,13 +5,13 @@
 </head>
 <body>
     <h1>Hello, World!</h1>
-    {% comment %} <p>This is my first HTML {{name}}</p> {% endcomment %}
+    <p>This is my first HTML {{name}}</p> 
     <ul>
-        {% comment %} {% for item in data %}
+         {% for item in data %}
             <li>{{ item.title  }}</li>
-            <li>{{ item.price }}</li>
-            <li>{{ item.description }}</li>
-        {% endfor %} {% endcomment %}
+            {% comment %} <li>{{ item.price }}</li>
+            <li>{{ item.description }}</li> {% endcomment %}
+        {% endfor %} 
        
         
     </ul>
