@@ -1,0 +1,17 @@
+2024-07-28 09:49:05,788 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-07-28 09:49:52,709 (INFO) - django.utils.autoreload - C:\Users\Asus\Desktop\Study\django\products\middleware.py changed, reloading.
+2024-07-28 09:49:53,362 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-07-28 09:49:58,544 (INFO) - products.middleware - /auth/users/ at 2024-07-28 03:49:58.544132+00:00 and ip is 127.0.0.1
+2024-07-28 09:50:44,318 (INFO) - django.utils.autoreload - C:\Users\Asus\Desktop\Study\django\ecommerce\settings.py changed, reloading.
+2024-07-28 09:50:45,036 (INFO) - django.utils.autoreload
+2024-07-28 09:50:47,825 (INFO) - django.utils.autoreload
+Watching for file changes with StatReloader- 2024-07-28 09:50:48,598 (INFO) - django.utils.autoreload
+/auth/users/ at 2024-07-28 03:50:56.267839+00:00 and ip is 127.0.0.1- 2024-07-28 09:50:56,267 (INFO) - products.middleware
+C:\Users\Asus\Desktop\Study\django\ecommerce\settings.py changed, reloading.- 2024-07-28 15:44:43,198 (INFO) - django.utils.autoreload
+Watching for file changes with StatReloader -  (INFO) - django.utils.autoreload
+C:\Users\Asus\Desktop\Study\django\ecommerce\settings.py changed, reloading. -  (INFO) - django.utils.autoreload
+2024-07-28 15:44:48,614Watching for file changes with StatReloader -  (INFO) - django.utils.autoreload
+2024-07-28 15:44:52,853C:\Users\Asus\Desktop\Study\django\ecommerce\settings.py changed, reloading. -  (INFO) - django.utils.autoreload
+2024-07-28 15:44:54,376 -  (INFO) - django.utils.autoreload
+2024-07-28 15:44:56,566 -  (INFO) - django.utils.autoreload
+2024-07-28 15:44:57,992 - Watching for file changes with StatReloader (INFO) - django.utils.autoreload
